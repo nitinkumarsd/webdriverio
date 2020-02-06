@@ -1,0 +1,114 @@
+{
+  "uid" : "84a1a5346266fffa",
+  "name" : "Hook",
+  "fullName" : "User Registration: Click on Sign in button and Register User.Hook",
+  "historyId" : "738e6ceb5b2b4584dd3416db2efb26d2",
+  "time" : {
+    "start" : 1580962430502,
+    "stop" : 1580962430503,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testClass",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db15d087cbb2cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580962410282,
+        "stop" : 1580962410284,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "7a505c446a58ab25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580962373675,
+        "stop" : 1580962373676,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e624d53ffa5f153b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580962346395,
+        "stop" : 1580962346398,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "aa0138b6ea8520c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961457838,
+        "stop" : 1580961457839,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "368d64ff86a6b0a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961443395,
+        "stop" : 1580961443397,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4f92d5ad69670dc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961352421,
+        "stop" : 1580961352421,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "888f9199a1146ab0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961337586,
+        "stop" : 1580961337589,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84a1a5346266fffa.json",
+  "parameterValues" : [ "chrome" ]
+}

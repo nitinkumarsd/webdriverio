@@ -13,8 +13,7 @@ defineSupportCode(function({Given,When,Then}){
 });
 
     When(/^Click Signin on the landing page$/,async function(){
-    browser.pause(10000);
-    
+    // Click on signin button
     const elm= await $('//*[@id="header"]/div[2]/div/div/nav/div[1]/a');
     await elm.click();
    

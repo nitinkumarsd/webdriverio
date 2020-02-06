@@ -5,12 +5,12 @@
     "name" : "User Registration: Click on Sign in button and Register User",
     "children" : [ {
       "name" : "Given I'm on home page",
-      "uid" : "f324c023639a41a7",
+      "uid" : "650af5baf7049949",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961443398,
-        "stop" : 1580961443412,
+        "start" : 1580962410285,
+        "stop" : 1580962410299,
         "duration" : 14
       },
       "flaky" : false,
@@ -18,77 +18,77 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "When Click Signin on the landing page",
-      "uid" : "bac79618ea5aecc7",
+      "uid" : "1bd7541c3153d6",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961443413,
-        "stop" : 1580961451284,
-        "duration" : 7871
+        "start" : 1580962410300,
+        "stop" : 1580962423833,
+        "duration" : 13533
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then Create Account by entering email address",
-      "uid" : "e5a0796a9e598b56",
+      "uid" : "ef47d595d426dba3",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961451284,
-        "stop" : 1580961452615,
-        "duration" : 1331
+        "start" : 1580962423833,
+        "stop" : 1580962425170,
+        "duration" : 1337
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then Fill personal information",
-      "uid" : "f970e8c6bc141db2",
+      "uid" : "66ef14893c1924b",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961452615,
-        "stop" : 1580961454838,
-        "duration" : 2223
+        "start" : 1580962425170,
+        "stop" : 1580962427420,
+        "duration" : 2250
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then Fill address",
-      "uid" : "7f177bb80bc2a778",
+      "uid" : "fa09d14f63b674e7",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961454838,
-        "stop" : 1580961456248,
-        "duration" : 1410
+        "start" : 1580962427420,
+        "stop" : 1580962428806,
+        "duration" : 1386
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then Click Register",
-      "uid" : "3c0d54844a56baea",
+      "uid" : "9a8ec96392e3776d",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961456248,
-        "stop" : 1580961457763,
-        "duration" : 1515
+        "start" : 1580962428806,
+        "stop" : 1580962430428,
+        "duration" : 1622
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Then Validate correct name and surname is displayed on landing screen",
-      "uid" : "6b66d6040051e829",
+      "uid" : "a4ce80a2f7e89c5d",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961457763,
-        "stop" : 1580961457837,
+        "start" : 1580962430428,
+        "stop" : 1580962430502,
         "duration" : 74
       },
       "flaky" : false,
@@ -96,12 +96,12 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "8b10afd4b9291159",
+      "uid" : "84a1a5346266fffa",
       "parentUid" : "83350ad4ed7041d8f356531ba95f63b8",
       "status" : "passed",
       "time" : {
-        "start" : 1580961457838,
-        "stop" : 1580961457839,
+        "start" : 1580962430502,
+        "stop" : 1580962430503,
         "duration" : 1
       },
       "flaky" : false,

@@ -1,80 +1,80 @@
 [ {
-  "uid" : "f324c023639a41a7",
-  "name" : "Given I'm on home page",
-  "time" : {
-    "start" : 1580961443398,
-    "stop" : 1580961443412,
-    "duration" : 14
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7f177bb80bc2a778",
-  "name" : "Then Fill address",
-  "time" : {
-    "start" : 1580961454838,
-    "stop" : 1580961456248,
-    "duration" : 1410
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8b10afd4b9291159",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1580961457838,
-    "stop" : 1580961457839,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e5a0796a9e598b56",
-  "name" : "Then Create Account by entering email address",
-  "time" : {
-    "start" : 1580961451284,
-    "stop" : 1580961452615,
-    "duration" : 1331
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f970e8c6bc141db2",
-  "name" : "Then Fill personal information",
-  "time" : {
-    "start" : 1580961452615,
-    "stop" : 1580961454838,
-    "duration" : 2223
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3c0d54844a56baea",
+  "uid" : "9a8ec96392e3776d",
   "name" : "Then Click Register",
   "time" : {
-    "start" : 1580961456248,
-    "stop" : 1580961457763,
-    "duration" : 1515
+    "start" : 1580962428806,
+    "stop" : 1580962430428,
+    "duration" : 1622
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6b66d6040051e829",
+  "uid" : "ef47d595d426dba3",
+  "name" : "Then Create Account by entering email address",
+  "time" : {
+    "start" : 1580962423833,
+    "stop" : 1580962425170,
+    "duration" : 1337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4ce80a2f7e89c5d",
   "name" : "Then Validate correct name and surname is displayed on landing screen",
   "time" : {
-    "start" : 1580961457763,
-    "stop" : 1580961457837,
+    "start" : 1580962430428,
+    "stop" : 1580962430502,
     "duration" : 74
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "bac79618ea5aecc7",
+  "uid" : "1bd7541c3153d6",
   "name" : "When Click Signin on the landing page",
   "time" : {
-    "start" : 1580961443413,
-    "stop" : 1580961451284,
-    "duration" : 7871
+    "start" : 1580962410300,
+    "stop" : 1580962423833,
+    "duration" : 13533
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa09d14f63b674e7",
+  "name" : "Then Fill address",
+  "time" : {
+    "start" : 1580962427420,
+    "stop" : 1580962428806,
+    "duration" : 1386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84a1a5346266fffa",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1580962430502,
+    "stop" : 1580962430503,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "650af5baf7049949",
+  "name" : "Given I'm on home page",
+  "time" : {
+    "start" : 1580962410285,
+    "stop" : 1580962410299,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66ef14893c1924b",
+  "name" : "Then Fill personal information",
+  "time" : {
+    "start" : 1580962425170,
+    "stop" : 1580962427420,
+    "duration" : 2250
   },
   "status" : "passed",
   "severity" : "normal"

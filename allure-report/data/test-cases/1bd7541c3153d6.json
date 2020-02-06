@@ -1,0 +1,140 @@
+{
+  "uid" : "1bd7541c3153d6",
+  "name" : "When Click Signin on the landing page",
+  "fullName" : "User Registration: Click on Sign in button and Register User.When Click Signin on the landing page",
+  "historyId" : "a0465254cccdd5e1bce233b911d3c015",
+  "time" : {
+    "start" : 1580962410300,
+    "stop" : 1580962423833,
+    "duration" : 13533
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580962410302,
+        "stop" : 1580962411419,
+        "duration" : 1117
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4d9b21c4f033cf94",
+        "name" : "Request",
+        "source" : "4d9b21c4f033cf94.json",
+        "type" : "application/json",
+        "size" : 84
+      }, {
+        "uid" : "cbf9eed9664d75c0",
+        "name" : "Response",
+        "source" : "cbf9eed9664d75c0.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/dfb89e1d-5da8-4d5b-986f-1f694da0270c/click",
+      "time" : {
+        "start" : 1580962421399,
+        "stop" : 1580962423832,
+        "duration" : 2433
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "8a2deb6dd1e2dbaa",
+      "name" : "Response",
+      "source" : "8a2deb6dd1e2dbaa.json",
+      "type" : "application/json",
+      "size" : 83
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testClass",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testMethod",
+    "value" : "When Click Signin on the landing page"
+  }, {
+    "name" : "package",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80b2222aa5cb07ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580962346412,
+        "stop" : 1580962363643,
+        "duration" : 17231
+      }
+    }, {
+      "uid" : "87e69fae49bbb355",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961443413,
+        "stop" : 1580961451284,
+        "duration" : 7871
+      }
+    }, {
+      "uid" : "9f50c89c1c8b7fb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961337615,
+        "stop" : 1580961345577,
+        "duration" : 7962
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bd7541c3153d6.json",
+  "parameterValues" : [ "chrome" ]
+}

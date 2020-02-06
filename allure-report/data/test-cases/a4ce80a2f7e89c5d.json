@@ -1,0 +1,161 @@
+{
+  "uid" : "a4ce80a2f7e89c5d",
+  "name" : "Then Validate correct name and surname is displayed on landing screen",
+  "fullName" : "User Registration: Click on Sign in button and Register User.Then Validate correct name and surname is displayed on landing screen",
+  "historyId" : "5a3864daf9b2992eb10b91f745e51709",
+  "time" : {
+    "start" : 1580962430428,
+    "stop" : 1580962430502,
+    "duration" : 74
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580962430429,
+        "stop" : 1580962430465,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8710cf41cba1a9bb",
+        "name" : "Request",
+        "source" : "8710cf41cba1a9bb.json",
+        "type" : "application/json",
+        "size" : 89
+      }, {
+        "uid" : "bfbc13adcb81c9f5",
+        "name" : "Response",
+        "source" : "bfbc13adcb81c9f5.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/fe528766-8304-48b7-9991-68980e913658/text",
+      "time" : {
+        "start" : 1580962430467,
+        "stop" : 1580962430488,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1725e6b543e99cd7",
+        "name" : "Response",
+        "source" : "1725e6b543e99cd7.json",
+        "type" : "application/json",
+        "size" : 13
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/fe528766-8304-48b7-9991-68980e913658/text",
+      "time" : {
+        "start" : 1580962430489,
+        "stop" : 1580962430502,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "51d1cd30cdd72c9e",
+        "name" : "Response",
+        "source" : "51d1cd30cdd72c9e.json",
+        "type" : "application/json",
+        "size" : 13
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testClass",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Validate correct name and surname is displayed on landing screen"
+  }, {
+    "name" : "package",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dfe1b2ce2f3f54ce",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1580962373675,
+        "stop" : 1580962373675,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c9b507e1f7186eeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961457763,
+        "stop" : 1580961457837,
+        "duration" : 74
+      }
+    }, {
+      "uid" : "fab8be1c9be38406",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961352345,
+        "stop" : 1580961352420,
+        "duration" : 75
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4ce80a2f7e89c5d.json",
+  "parameterValues" : [ "chrome" ]
+}
