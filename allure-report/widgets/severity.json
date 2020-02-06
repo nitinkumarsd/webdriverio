@@ -1,0 +1,81 @@
+[ {
+  "uid" : "6b66d6040051e829",
+  "name" : "Then Validate correct name and surname is displayed on landing screen",
+  "time" : {
+    "start" : 1580961457763,
+    "stop" : 1580961457837,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b10afd4b9291159",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1580961457838,
+    "stop" : 1580961457839,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bac79618ea5aecc7",
+  "name" : "When Click Signin on the landing page",
+  "time" : {
+    "start" : 1580961443413,
+    "stop" : 1580961451284,
+    "duration" : 7871
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f970e8c6bc141db2",
+  "name" : "Then Fill personal information",
+  "time" : {
+    "start" : 1580961452615,
+    "stop" : 1580961454838,
+    "duration" : 2223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5a0796a9e598b56",
+  "name" : "Then Create Account by entering email address",
+  "time" : {
+    "start" : 1580961451284,
+    "stop" : 1580961452615,
+    "duration" : 1331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f177bb80bc2a778",
+  "name" : "Then Fill address",
+  "time" : {
+    "start" : 1580961454838,
+    "stop" : 1580961456248,
+    "duration" : 1410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c0d54844a56baea",
+  "name" : "Then Click Register",
+  "time" : {
+    "start" : 1580961456248,
+    "stop" : 1580961457763,
+    "duration" : 1515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f324c023639a41a7",
+  "name" : "Given I'm on home page",
+  "time" : {
+    "start" : 1580961443398,
+    "stop" : 1580961443412,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

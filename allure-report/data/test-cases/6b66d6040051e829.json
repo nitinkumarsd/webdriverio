@@ -1,0 +1,145 @@
+{
+  "uid" : "6b66d6040051e829",
+  "name" : "Then Validate correct name and surname is displayed on landing screen",
+  "fullName" : "User Registration: Click on Sign in button and Register User.Then Validate correct name and surname is displayed on landing screen",
+  "historyId" : "5a3864daf9b2992eb10b91f745e51709",
+  "time" : {
+    "start" : 1580961457763,
+    "stop" : 1580961457837,
+    "duration" : 74
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1580961457764,
+        "stop" : 1580961457793,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "457d376b1ac405aa",
+        "name" : "Request",
+        "source" : "457d376b1ac405aa.json",
+        "type" : "application/json",
+        "size" : 89
+      }, {
+        "uid" : "fff2c9fb058eafdf",
+        "name" : "Response",
+        "source" : "fff2c9fb058eafdf.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/4b178149-df77-41f5-996b-865c0e77da8a/text",
+      "time" : {
+        "start" : 1580961457794,
+        "stop" : 1580961457824,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3a43a107482f4929",
+        "name" : "Response",
+        "source" : "3a43a107482f4929.json",
+        "type" : "application/json",
+        "size" : 13
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/4b178149-df77-41f5-996b-865c0e77da8a/text",
+      "time" : {
+        "start" : 1580961457824,
+        "stop" : 1580961457837,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3c9d5701a27a693",
+        "name" : "Response",
+        "source" : "3c9d5701a27a693.json",
+        "type" : "application/json",
+        "size" : 13
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testClass",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Validate correct name and surname is displayed on landing screen"
+  }, {
+    "name" : "package",
+    "value" : "User Registration: Click on Sign in button and Register User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e7d43bc5334236be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580961352345,
+        "stop" : 1580961352420,
+        "duration" : 75
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b66d6040051e829.json",
+  "parameterValues" : [ "chrome" ]
+}
